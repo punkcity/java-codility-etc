@@ -15,5 +15,7 @@ public class PankCodility {
 
         new Lesson02_CyclicRotation().runTestsForCyclicRotation();
         new Lesson02_2_OddOccurrencesInArray().runTestsForOddOccurrencesInArray();
+
+        new Lesson03_TimeComplexity().runTestsForTimeComplexity();
     }
 }
