@@ -17,5 +17,7 @@ public class PankCodility {
         new Lesson02_2_OddOccurrencesInArray().runTestsForOddOccurrencesInArray();
 
         new Lesson03_TimeComplexity().runTestsForTimeComplexity();
+
+        //Until a different (cleaner) approach, keeping invoking the methods from the Respective classes & NOT HERE!!!
     }
 }
