@@ -11,5 +11,7 @@ import com.punkcity.codility.*;
 public class PankCodility {
     public static void main(String[] args) {
         new Lesson01_BinaryGap().runTestsForBinaryGap();
+
+        new Lesson02_CyclicRotation().runTestsForCyclicRotation();
     }
 }
